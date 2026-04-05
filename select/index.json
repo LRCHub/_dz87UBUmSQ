@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ただ泣きたくなるの",
+  "base_artist": "中山美穂",
+  "createdAt": "2026-04-05T10:34:16.122795Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの",
+      "artist": "中山美穂",
+      "has_synced": true,
+      "path": "select/01_ただ泣きたくなるの_中山美穂.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの <2014リマスター>",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/02_ただ泣きたくなるの__2014リマスター_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの",
+      "artist": "Yurie Kokubu",
+      "has_synced": false,
+      "path": "select/03_ただ泣きたくなるの_Yurie_Kokubu.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの",
+      "artist": "柴咲コウ",
+      "has_synced": true,
+      "path": "select/04_ただ泣きたくなるの_柴咲コウ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの",
+      "artist": "Miho Nakayama",
+      "has_synced": true,
+      "path": "select/05_ただ泣きたくなるの_Miho_Nakayama.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの",
+      "artist": "中山美穂",
+      "has_synced": false,
+      "path": "select/06_ただ泣きたくなるの_中山美穂.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの",
+      "artist": "Kou Shibasaki",
+      "has_synced": true,
+      "path": "select/07_ただ泣きたくなるの_Kou_Shibasaki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ただ泣きたくなるの - TADANAKITAKUNARUNO",
+      "artist": "Miho Nakayama",
+      "has_synced": true,
+      "path": "select/08_ただ泣きたくなるの_-_TADANAKITAKUNARUNO_Miho_Nakayama.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ただ泣きたくなるの",
+      "artist": "中山 美穂",
+      "has_synced": false,
+      "path": "select/pl_01_ただ泣きたくなるの_中山_美穂.txt"
+    }
+  ]
+}
